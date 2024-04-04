@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- generator="Joomla! - Open Source Content Management" -->
+<?xml-stylesheet href="/frango/plugins/system/whatsappbuttonags/assets/floating-wpp.min.css" type="text/css"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="pt-br">
+	<title type="text">Início</title>
+	<subtitle type="text"></subtitle>
+	<link rel="alternate" type="text/html" href="http://backup"/>
+	<id>http://backup/frango/index.php</id>
+	<updated>2024-04-04T15:18:14+00:00</updated>
+	<author>
+		<name>Frango Montese</name>
+	</author>
+	<generator uri="https://www.joomla.org">Joomla! - Open Source Content Management</generator>
+	<link rel="self" type="application/atom+xml" href="http://backup/frango/frango/index.php?view=category&amp;id=58&amp;format=feed&amp;type=atom"/>
+	<entry>
+		<title>Verduras</title>
+		<link rel="alternate" type="text/html" href="http://backup/frango/frango/index.php?view=article&amp;id=25&amp;format=feed&amp;type=atom&amp;catid=58"/>
+		<published>2024-02-05T20:34:39+00:00</published>
+		<updated>2024-02-05T20:34:39+00:00</updated>
+		<id>http://backup/frango/index.php?view=article&amp;id=25&amp;catid=58</id>
+		<author>
+			<name>Ribamar FS</name>
+		</author>
+		<summary type="html">&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://backup/frango/images/inicio/verduras.jpg&quot; alt=&quot;-Agua&quot; width=&quot;476&quot; height=&quot;595&quot; style=&quot;display: block; margin-left: auto; margin-right: auto;&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Verduras diversas&lt;br /&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Código - VE01&lt;/p&gt;
+&lt;p&gt;Formas de pagamento - cartões de crédito, PIX ou em espécie&lt;/p&gt;
+&lt;p&gt;Entrego no seu domicílio sem custoadicional, desde que seja nas proximidades.&lt;/p&gt;
+&lt;p&gt;Dúvidas? Entre no WhatsApp e vamos conversar&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;</summary>
+		<content type="html">&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://backup/frango/images/inicio/verduras.jpg&quot; alt=&quot;-Agua&quot; width=&quot;476&quot; height=&quot;595&quot; style=&quot;display: block; margin-left: auto; margin-right: auto;&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Verduras diversas&lt;br /&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Código - VE01&lt;/p&gt;
+&lt;p&gt;Formas de pagamento - cartões de crédito, PIX ou em espécie&lt;/p&gt;
+&lt;p&gt;Entrego no seu domicílio sem custoadicional, desde que seja nas proximidades.&lt;/p&gt;
+&lt;p&gt;Dúvidas? Entre no WhatsApp e vamos conversar&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;</content>
+		<category term="verduras" />
+	</entry>
+</feed>

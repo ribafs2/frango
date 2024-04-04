@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- generator="Joomla! - Open Source Content Management" -->
+<?xml-stylesheet href="/frango/plugins/system/whatsappbuttonags/assets/floating-wpp.min.css" type="text/css"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Início</title>
+		<description><![CDATA[]]></description>
+		<link>http://backup/frango/index.php?view=category&amp;id=2</link>
+		<lastBuildDate>Thu, 04 Apr 2024 15:18:13 +0000</lastBuildDate>
+		<generator>Joomla! - Open Source Content Management</generator>
+		<atom:link rel="self" type="application/rss+xml" href="http://backup/frango/frango/index.php?view=category&amp;id=2&amp;format=feed&amp;type=rss"/>
+		<language>pt-br</language>
+		<item>
+			<title>Quem somos</title>
+			<link>http://backup/frango/index.php?view=article&amp;id=4&amp;catid=2</link>
+			<guid isPermaLink="true">http://backup/frango/index.php?view=article&amp;id=4&amp;catid=2</guid>
+			<description><![CDATA[<h3 style="text-align: center;">Frango Montese</h3>
+<p><img class="float-none" style="display: block; margin-left: auto; margin-right: auto;" src="http://backup/frango/images/qsomos.png" width="1102" height="800"></p>
+<p><strong>Casa do frango, carnes, ovos, água, frutas, verduras e mercearia.</strong></p>
+<p>Fale com o Raimundo pelo WhatsApp (clique no botão ao lado)</p>
+<p>Rua Vasco Da Gama, 544 - Montese - CEP 60420-440 - Fortaleza/CE</p>
+<p> </p>]]></description>
+			<category>Genérica</category>
+			<pubDate>Tue, 06 Feb 2024 17:42:49 +0000</pubDate>
+		</item>
+		<item>
+			<title>Início</title>
+			<link>http://backup/frango/index.php</link>
+			<guid isPermaLink="true">http://backup/frango/index.php</guid>
+			<description><![CDATA[<p><img src="http://backup/frango//frango/images/logo.jpg" alt="Loja Virtual Simples" width="1200" height="675" loading="lazy"></p><div class="container">
+<div class="row">
+<div class="col">
+<div class="row"><a href="http://backup/frango/frango/index.php?view=article&amp;id=2"><img src="http://backup/frango/images/inicio/ffresco.jpg" alt="2" width="200" height="250" class="float-none" /></a></div>
+<div class="row"><strong>Frango<br /></strong></div>
+<div class="row"><a href="http://backup/frango/frango/index.php?view=article&amp;id=2">Detalhes</a></div>
+</div>
+<div class="col">
+<div class="row"><a href="http://backup/frango/frango/index.php?view=article&amp;id=20"><img src="http://backup/frango/images/inicio/boi.jpg" alt="" width="200" height="250" class="float-none" /></a></div>
+<div class="row"><strong>Carne de Boi<br /></strong></div>
+<div class="row"><a href="http://backup/frango/frango/index.php?view=article&amp;id=20">Detalhes</a></div>
+</div>
+<div class="col">
+<div class="row"><a href="http://backup/frango/frango/index.php?view=article&amp;id=26"><img src="http://backup/frango/images/inicio/porco.jpg" alt="7" width="200" height="250" class="float-none" /></a></div>
+<div class="row"><strong>Carde de Porco<br /></strong></div>
+<div class="row"><a href="http://backup/frango/frango/index.php?view=article&amp;id=26">Detalhes</a></div>
+</div>
+</div>
+<div class="row">
+<div class="col">
+<div class="row"><a href="http://backup/frango/frango/index.php?view=article&amp;id=22"><img src="http://backup/frango/images/inicio/ovos.jpeg" alt="" width="200" height="250" class="float-none" /></a></div>
+<div class="row"><strong>Ovos brancos e vermelhor</strong></div>
+<div class="row"><a href="http://backup/frango/frango/index.php?view=article&amp;id=22">Detalhes</a></div>
+</div>
+<div class="col">
+<div class="row"><a href="http://backup/frango/frango/index.php?view=article&amp;id=23"><img src="http://backup/frango/images/inicio/agua.jpg" alt="" width="200" height="250" class="float-none" /></a></div>
+<div class="row"><strong>Água<br /></strong></div>
+<div class="row"><a href="http://backup/frango/frango/index.php?view=article&amp;id=23">Detalhes</a></div>
+</div>
+<div class="col">
+<div class="row"><a href="http://backup/frango/frango/index.php?view=article&amp;id=24"><img src="http://backup/frango/images/inicio/frutas.jpg" alt="" width="200" height="250" class="float-none" /></a></div>
+<div class="row"><strong>Frutas Diversas<br /></strong></div>
+<div class="row"><a href="http://backup/frango/frango/index.php?view=article&amp;id=24">Detalhes</a></div>
+</div>
+</div>
+<div class="row">
+<div class="col">
+<div class="row"><a href="http://backup/frango/frango/index.php?view=article&amp;id=25"><img src="http://backup/frango/images/inicio/verduras.jpg" alt="" width="200" height="250" class="float-none" /></a></div>
+<div class="row"><strong>Verduras<br /></strong></div>
+<div class="row"><a href="http://backup/frango/frango/index.php?view=article&amp;id=25">Detalhes</a></div>
+</div>
+<div class="col">
+<div class="row"><a href="http://backup/frango/frango/index.php?view=article&amp;id=18"><img src="http://backup/frango/images/inicio/mercearia.jpg" alt="" width="200" height="250" class="float-none" /></a></div>
+<div class="row"><strong>Mercearia<br /></strong></div>
+<div class="row"><a href="http://backup/frango/frango/index.php?view=article&amp;id=18">Detalhes</a></div>
+</div>
+<div class="col">
+<div class="row">&nbsp;</div>
+<div class="row">&nbsp;</div>
+<div class="row">&nbsp;</div>
+</div>
+</div>
+</div>]]></description>
+			<category>Genérica</category>
+			<pubDate>Mon, 05 Feb 2024 19:29:16 +0000</pubDate>
+		</item>
+	</channel>
+</rss>

@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- generator="Joomla! - Open Source Content Management" -->
+<?xml-stylesheet href="/frango/plugins/system/whatsappbuttonags/assets/floating-wpp.min.css" type="text/css"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="pt-br">
+	<title type="text">Início</title>
+	<subtitle type="text"></subtitle>
+	<link rel="alternate" type="text/html" href="http://backup"/>
+	<id>http://backup/frango/index.php</id>
+	<updated>2024-04-04T15:18:14+00:00</updated>
+	<author>
+		<name>Frango Montese</name>
+	</author>
+	<generator uri="https://www.joomla.org">Joomla! - Open Source Content Management</generator>
+	<link rel="self" type="application/atom+xml" href="http://backup/frango/frango/index.php?view=category&amp;id=2&amp;format=feed&amp;type=atom"/>
+	<entry>
+		<title>Quem somos</title>
+		<link rel="alternate" type="text/html" href="http://backup/frango/frango/index.php?view=article&amp;id=4&amp;format=feed&amp;type=atom&amp;catid=2"/>
+		<published>2024-02-06T17:42:49+00:00</published>
+		<updated>2024-02-06T17:42:49+00:00</updated>
+		<id>http://backup/frango/index.php?view=article&amp;id=4&amp;catid=2</id>
+		<author>
+			<name>Ribamar FS</name>
+		</author>
+		<summary type="html">&lt;h3 style=&quot;text-align: center;&quot;&gt;Frango Montese&lt;/h3&gt;
+&lt;p&gt;&lt;img class=&quot;float-none&quot; style=&quot;display: block; margin-left: auto; margin-right: auto;&quot; src=&quot;http://backup/frango/images/qsomos.png&quot; width=&quot;1102&quot; height=&quot;800&quot;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Casa do frango, carnes, ovos, água, frutas, verduras e mercearia.&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Fale com o Raimundo pelo WhatsApp (clique no botão ao lado)&lt;/p&gt;
+&lt;p&gt;Rua Vasco Da Gama, 544 - Montese - CEP 60420-440 - Fortaleza/CE&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;</summary>
+		<content type="html">&lt;h3 style=&quot;text-align: center;&quot;&gt;Frango Montese&lt;/h3&gt;
+&lt;p&gt;&lt;img class=&quot;float-none&quot; style=&quot;display: block; margin-left: auto; margin-right: auto;&quot; src=&quot;http://backup/frango/images/qsomos.png&quot; width=&quot;1102&quot; height=&quot;800&quot;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Casa do frango, carnes, ovos, água, frutas, verduras e mercearia.&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Fale com o Raimundo pelo WhatsApp (clique no botão ao lado)&lt;/p&gt;
+&lt;p&gt;Rua Vasco Da Gama, 544 - Montese - CEP 60420-440 - Fortaleza/CE&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;</content>
+		<category term="Genérica" />
+	</entry>
+	<entry>
+		<title>Início</title>
+		<link rel="alternate" type="text/html" href="http://backup/frango/index.php"/>
+		<published>2024-02-05T19:29:16+00:00</published>
+		<updated>2024-02-05T19:29:16+00:00</updated>
+		<id>http://backup/frango/index.php</id>
+		<author>
+			<name>Ribamar FS</name>
+		</author>
+		<summary type="html">&lt;p&gt;&lt;img src=&quot;http://backup/frango//frango/images/logo.jpg&quot; alt=&quot;Loja Virtual Simples&quot; width=&quot;1200&quot; height=&quot;675&quot; loading=&quot;lazy&quot;&gt;&lt;/p&gt;&lt;div class=&quot;container&quot;&gt;
+&lt;div class=&quot;row&quot;&gt;
+&lt;div class=&quot;col&quot;&gt;
+&lt;div class=&quot;row&quot;&gt;&lt;a href=&quot;http://backup/frango/index.php?option=com_content&amp;amp;view=article&amp;amp;id=2&quot;&gt;&lt;img src=&quot;http://backup/frango/images/inicio/ffresco.jpg&quot; alt=&quot;2&quot; width=&quot;200&quot; height=&quot;250&quot; class=&quot;float-none&quot; /&gt;&lt;/a&gt;&lt;/div&gt;
+&lt;div class=&quot;row&quot;&gt;&lt;strong&gt;Frango&lt;br /&gt;&lt;/strong&gt;&lt;/div&gt;
+&lt;div class=&quot;row&quot;&gt;&lt;a href=&quot;http://backup/frango/index.php?option=com_content&amp;amp;view=article&amp;amp;id=2&quot;&gt;Detalhes&lt;/a&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;col&quot;&gt;
+&lt;div class=&quot;row&quot;&gt;&lt;a href=&quot;http://backup/frango/index.php?option=com_content&amp;amp;view=article&amp;amp;id=20&quot;&gt;&lt;img src=&quot;http://backup/frango/images/inicio/boi.jpg&quot; alt=&quot;&quot; width=&quot;200&quot; height=&quot;250&quot; class=&quot;float-none&quot; /&gt;&lt;/a&gt;&lt;/div&gt;
+&lt;div class=&quot;row&quot;&gt;&lt;strong&gt;Carne de Boi&lt;br /&gt;&lt;/strong&gt;&lt;/div&gt;
+&lt;div class=&quot;row&quot;&gt;&lt;a href=&quot;http://backup/frango/index.php?option=com_content&amp;amp;view=article&amp;amp;id=20&quot;&gt;Detalhes&lt;/a&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;col&quot;&gt;
+&lt;div class=&quot;row&quot;&gt;&lt;a href=&quot;http://backup/frango/index.php?option=com_content&amp;amp;view=article&amp;amp;id=26&quot;&gt;&lt;img src=&quot;http://backup/frango/images/inicio/porco.jpg&quot; alt=&quot;7&quot; width=&quot;200&quot; height=&quot;250&quot; class=&quot;float-none&quot; /&gt;&lt;/a&gt;&lt;/div&gt;
+&lt;div class=&quot;row&quot;&gt;&lt;strong&gt;Carde de Porco&lt;br /&gt;&lt;/strong&gt;&lt;/div&gt;
+&lt;div class=&quot;row&quot;&gt;&lt;a href=&quot;http://backup/frango/index.php?option=com_content&amp;amp;view=article&amp;amp;id=26&quot;&gt;Detalhes&lt;/a&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;row&quot;&gt;
+&lt;div class=&quot;col&quot;&gt;
+&lt;div class=&quot;row&quot;&gt;&lt;a href=&quot;http://backup/frango/index.php?option=com_content&amp;amp;view=article&amp;amp;id=22&quot;&gt;&lt;img src=&quot;http://backup/frango/images/inicio/ovos.jpeg&quot; alt=&quot;&quot; width=&quot;200&quot; height=&quot;250&quot; class=&quot;float-none&quot; /&gt;&lt;/a&gt;&lt;/div&gt;
+&lt;div class=&quot;row&quot;&gt;&lt;strong&gt;Ovos brancos e vermelhor&lt;/strong&gt;&lt;/div&gt;
+&lt;div class=&quot;row&quot;&gt;&lt;a href=&quot;http://backup/frango/index.php?option=com_content&amp;amp;view=article&amp;amp;id=22&quot;&gt;Detalhes&lt;/a&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;col&quot;&gt;
+&lt;div class=&quot;row&quot;&gt;&lt;a href=&quot;http://backup/frango/index.php?option=com_content&amp;amp;view=article&amp;amp;id=23&quot;&gt;&lt;img src=&quot;http://backup/frango/images/inicio/agua.jpg&quot; alt=&quot;&quot; width=&quot;200&quot; height=&quot;250&quot; class=&quot;float-none&quot; /&gt;&lt;/a&gt;&lt;/div&gt;
+&lt;div class=&quot;row&quot;&gt;&lt;strong&gt;Água&lt;br /&gt;&lt;/strong&gt;&lt;/div&gt;
+&lt;div class=&quot;row&quot;&gt;&lt;a href=&quot;http://backup/frango/index.php?option=com_content&amp;amp;view=article&amp;amp;id=23&quot;&gt;Detalhes&lt;/a&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;col&quot;&gt;
+&lt;div class=&quot;row&quot;&gt;&lt;a href=&quot;http://backup/frango/index.php?option=com_content&amp;amp;view=article&amp;amp;id=24&quot;&gt;&lt;img src=&quot;http://backup/frango/images/inicio/frutas.jpg&quot; alt=&quot;&quot; width=&quot;200&quot; height=&quot;250&quot; class=&quot;float-none&quot; /&gt;&lt;/a&gt;&lt;/div&gt;
+&lt;div class=&quot;row&quot;&gt;&lt;strong&gt;Frutas Diversas&lt;br /&gt;&lt;/strong&gt;&lt;/div&gt;
+&lt;div class=&quot;row&quot;&gt;&lt;a href=&quot;http://backup/frango/index.php?option=com_content&amp;amp;view=article&amp;amp;id=24&quot;&gt;Detalhes&lt;/a&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;row&quot;&gt;
+&lt;div class=&quot;col&quot;&gt;
+&lt;div class=&quot;row&quot;&gt;&lt;a href=&quot;http://backup/frango/index.php?option=com_content&amp;amp;view=article&amp;amp;id=25&quot;&gt;&lt;img src=&quot;http://backup/frango/images/inicio/verduras.jpg&quot; alt=&quot;&quot; width=&quot;200&quot; height=&quot;250&quot; class=&quot;float-none&quot; /&gt;&lt;/a&gt;&lt;/div&gt;
+&lt;div class=&quot;row&quot;&gt;&lt;strong&gt;Verduras&lt;br /&gt;&lt;/strong&gt;&lt;/div&gt;
+&lt;div class=&quot;row&quot;&gt;&lt;a href=&quot;http://backup/frango/index.php?option=com_content&amp;amp;view=article&amp;amp;id=25&quot;&gt;Detalhes&lt;/a&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;col&quot;&gt;
+&lt;div class=&quot;row&quot;&gt;&lt;a href=&quot;http://backup/frango/index.php?option=com_content&amp;amp;view=article&amp;amp;id=18&quot;&gt;&lt;img src=&quot;http://backup/frango/images/inicio/mercearia.jpg&quot; alt=&quot;&quot; width=&quot;200&quot; height=&quot;250&quot; class=&quot;float-none&quot; /&gt;&lt;/a&gt;&lt;/div&gt;
+&lt;div class=&quot;row&quot;&gt;&lt;strong&gt;Mercearia&lt;br /&gt;&lt;/strong&gt;&lt;/div&gt;
+&lt;div class=&quot;row&quot;&gt;&lt;a href=&quot;http://backup/frango/index.php?option=com_content&amp;amp;view=article&amp;amp;id=18&quot;&gt;Detalhes&lt;/a&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;col&quot;&gt;
+&lt;div class=&quot;row&quot;&gt;&amp;nbsp;&lt;/div&gt;
+&lt;div class=&quot;row&quot;&gt;&amp;nbsp;&lt;/div&gt;
+&lt;div class=&quot;row&quot;&gt;&amp;nbsp;&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;</summary>
+		<content type="html">&lt;p&gt;&lt;img src=&quot;http://backup/frango//frango/images/logo.jpg&quot; alt=&quot;Loja Virtual Simples&quot; width=&quot;1200&quot; height=&quot;675&quot; loading=&quot;lazy&quot;&gt;&lt;/p&gt;&lt;div class=&quot;container&quot;&gt;
+&lt;div class=&quot;row&quot;&gt;
+&lt;div class=&quot;col&quot;&gt;
+&lt;div class=&quot;row&quot;&gt;&lt;a href=&quot;http://backup/frango/index.php?option=com_content&amp;amp;view=article&amp;amp;id=2&quot;&gt;&lt;img src=&quot;http://backup/frango/images/inicio/ffresco.jpg&quot; alt=&quot;2&quot; width=&quot;200&quot; height=&quot;250&quot; class=&quot;float-none&quot; /&gt;&lt;/a&gt;&lt;/div&gt;
+&lt;div class=&quot;row&quot;&gt;&lt;strong&gt;Frango&lt;br /&gt;&lt;/strong&gt;&lt;/div&gt;
+&lt;div class=&quot;row&quot;&gt;&lt;a href=&quot;http://backup/frango/index.php?option=com_content&amp;amp;view=article&amp;amp;id=2&quot;&gt;Detalhes&lt;/a&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;col&quot;&gt;
+&lt;div class=&quot;row&quot;&gt;&lt;a href=&quot;http://backup/frango/index.php?option=com_content&amp;amp;view=article&amp;amp;id=20&quot;&gt;&lt;img src=&quot;http://backup/frango/images/inicio/boi.jpg&quot; alt=&quot;&quot; width=&quot;200&quot; height=&quot;250&quot; class=&quot;float-none&quot; /&gt;&lt;/a&gt;&lt;/div&gt;
+&lt;div class=&quot;row&quot;&gt;&lt;strong&gt;Carne de Boi&lt;br /&gt;&lt;/strong&gt;&lt;/div&gt;
+&lt;div class=&quot;row&quot;&gt;&lt;a href=&quot;http://backup/frango/index.php?option=com_content&amp;amp;view=article&amp;amp;id=20&quot;&gt;Detalhes&lt;/a&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;col&quot;&gt;
+&lt;div class=&quot;row&quot;&gt;&lt;a href=&quot;http://backup/frango/index.php?option=com_content&amp;amp;view=article&amp;amp;id=26&quot;&gt;&lt;img src=&quot;http://backup/frango/images/inicio/porco.jpg&quot; alt=&quot;7&quot; width=&quot;200&quot; height=&quot;250&quot; class=&quot;float-none&quot; /&gt;&lt;/a&gt;&lt;/div&gt;
+&lt;div class=&quot;row&quot;&gt;&lt;strong&gt;Carde de Porco&lt;br /&gt;&lt;/strong&gt;&lt;/div&gt;
+&lt;div class=&quot;row&quot;&gt;&lt;a href=&quot;http://backup/frango/index.php?option=com_content&amp;amp;view=article&amp;amp;id=26&quot;&gt;Detalhes&lt;/a&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;row&quot;&gt;
+&lt;div class=&quot;col&quot;&gt;
+&lt;div class=&quot;row&quot;&gt;&lt;a href=&quot;http://backup/frango/index.php?option=com_content&amp;amp;view=article&amp;amp;id=22&quot;&gt;&lt;img src=&quot;http://backup/frango/images/inicio/ovos.jpeg&quot; alt=&quot;&quot; width=&quot;200&quot; height=&quot;250&quot; class=&quot;float-none&quot; /&gt;&lt;/a&gt;&lt;/div&gt;
+&lt;div class=&quot;row&quot;&gt;&lt;strong&gt;Ovos brancos e vermelhor&lt;/strong&gt;&lt;/div&gt;
+&lt;div class=&quot;row&quot;&gt;&lt;a href=&quot;http://backup/frango/index.php?option=com_content&amp;amp;view=article&amp;amp;id=22&quot;&gt;Detalhes&lt;/a&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;col&quot;&gt;
+&lt;div class=&quot;row&quot;&gt;&lt;a href=&quot;http://backup/frango/index.php?option=com_content&amp;amp;view=article&amp;amp;id=23&quot;&gt;&lt;img src=&quot;http://backup/frango/images/inicio/agua.jpg&quot; alt=&quot;&quot; width=&quot;200&quot; height=&quot;250&quot; class=&quot;float-none&quot; /&gt;&lt;/a&gt;&lt;/div&gt;
+&lt;div class=&quot;row&quot;&gt;&lt;strong&gt;Água&lt;br /&gt;&lt;/strong&gt;&lt;/div&gt;
+&lt;div class=&quot;row&quot;&gt;&lt;a href=&quot;http://backup/frango/index.php?option=com_content&amp;amp;view=article&amp;amp;id=23&quot;&gt;Detalhes&lt;/a&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;col&quot;&gt;
+&lt;div class=&quot;row&quot;&gt;&lt;a href=&quot;http://backup/frango/index.php?option=com_content&amp;amp;view=article&amp;amp;id=24&quot;&gt;&lt;img src=&quot;http://backup/frango/images/inicio/frutas.jpg&quot; alt=&quot;&quot; width=&quot;200&quot; height=&quot;250&quot; class=&quot;float-none&quot; /&gt;&lt;/a&gt;&lt;/div&gt;
+&lt;div class=&quot;row&quot;&gt;&lt;strong&gt;Frutas Diversas&lt;br /&gt;&lt;/strong&gt;&lt;/div&gt;
+&lt;div class=&quot;row&quot;&gt;&lt;a href=&quot;http://backup/frango/index.php?option=com_content&amp;amp;view=article&amp;amp;id=24&quot;&gt;Detalhes&lt;/a&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;row&quot;&gt;
+&lt;div class=&quot;col&quot;&gt;
+&lt;div class=&quot;row&quot;&gt;&lt;a href=&quot;http://backup/frango/index.php?option=com_content&amp;amp;view=article&amp;amp;id=25&quot;&gt;&lt;img src=&quot;http://backup/frango/images/inicio/verduras.jpg&quot; alt=&quot;&quot; width=&quot;200&quot; height=&quot;250&quot; class=&quot;float-none&quot; /&gt;&lt;/a&gt;&lt;/div&gt;
+&lt;div class=&quot;row&quot;&gt;&lt;strong&gt;Verduras&lt;br /&gt;&lt;/strong&gt;&lt;/div&gt;
+&lt;div class=&quot;row&quot;&gt;&lt;a href=&quot;http://backup/frango/index.php?option=com_content&amp;amp;view=article&amp;amp;id=25&quot;&gt;Detalhes&lt;/a&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;col&quot;&gt;
+&lt;div class=&quot;row&quot;&gt;&lt;a href=&quot;http://backup/frango/index.php?option=com_content&amp;amp;view=article&amp;amp;id=18&quot;&gt;&lt;img src=&quot;http://backup/frango/images/inicio/mercearia.jpg&quot; alt=&quot;&quot; width=&quot;200&quot; height=&quot;250&quot; class=&quot;float-none&quot; /&gt;&lt;/a&gt;&lt;/div&gt;
+&lt;div class=&quot;row&quot;&gt;&lt;strong&gt;Mercearia&lt;br /&gt;&lt;/strong&gt;&lt;/div&gt;
+&lt;div class=&quot;row&quot;&gt;&lt;a href=&quot;http://backup/frango/index.php?option=com_content&amp;amp;view=article&amp;amp;id=18&quot;&gt;Detalhes&lt;/a&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;col&quot;&gt;
+&lt;div class=&quot;row&quot;&gt;&amp;nbsp;&lt;/div&gt;
+&lt;div class=&quot;row&quot;&gt;&amp;nbsp;&lt;/div&gt;
+&lt;div class=&quot;row&quot;&gt;&amp;nbsp;&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;</content>
+		<category term="Genérica" />
+	</entry>
+</feed>

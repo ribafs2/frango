@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- generator="Joomla! - Open Source Content Management" -->
+<?xml-stylesheet href="/frango/plugins/system/whatsappbuttonags/assets/floating-wpp.min.css" type="text/css"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Início</title>
+		<description><![CDATA[]]></description>
+		<link>http://backup/frango/index.php?view=category&amp;id=59</link>
+		<lastBuildDate>Thu, 04 Apr 2024 15:18:14 +0000</lastBuildDate>
+		<generator>Joomla! - Open Source Content Management</generator>
+		<atom:link rel="self" type="application/rss+xml" href="http://backup/frango/frango/index.php?view=category&amp;id=59&amp;format=feed&amp;type=rss"/>
+		<language>pt-br</language>
+		<item>
+			<title>Frutas Diversas</title>
+			<link>http://backup/frango/index.php?view=article&amp;id=24&amp;catid=59</link>
+			<guid isPermaLink="true">http://backup/frango/index.php?view=article&amp;id=24&amp;catid=59</guid>
+			<description><![CDATA[<p>&nbsp;</p>
+<p><img src="http://backup/frango/images/inicio/frutas.jpg" alt="-Agua" width="476" height="595" style="display: block; margin-left: auto; margin-right: auto;" /></p>
+<p><strong>Frutas diversas<br /></strong></p>
+<p>Código - AG01</p>
+<p>Formas de pagamento - cartões de crédito, PIX ou em espécie</p>
+<p>Entrego no seu domicílio sem custoadicional, desde que seja nas proximidades.</p>
+<p>Dúvidas? Entre no WhatsApp e vamos conversar</p>
+<p>&nbsp;</p>]]></description>
+			<category>Frutas</category>
+			<pubDate>Mon, 05 Feb 2024 20:34:39 +0000</pubDate>
+		</item>
+	</channel>
+</rss>
